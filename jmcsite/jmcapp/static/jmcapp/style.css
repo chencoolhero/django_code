@@ -1,0 +1,10 @@
+li a {
+    color: gainsboro;
+    font-size: 40px;
+
+}
+
+body {
+    background: white url("images/background.gif") no-repeat;
+    margin-top:3%;
+}
